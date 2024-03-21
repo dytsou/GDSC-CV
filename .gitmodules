@@ -1,0 +1,6 @@
+[submodule "recyeco"]
+	path = recyeco
+	url = https://github.com/GDSC-CV/recyeco.git
+[submodule "recycle_app"]
+	path = recycle_app
+	url = https://github.com/GDSC-CV/recycle_app.git
